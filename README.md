@@ -24,3 +24,5 @@ Christopher and Ryunghoon are responsible for the simulation aspect of this proj
 The robot itself is able to move its legs with the help of the servo. Video/Images will be included in the final presentation.
 
 Thank you for taking the time to read this.
+
+Special thanks to Dr. Dongchul Kim for being our project overseer, and Dr. Noe Vargas for his patience at the Makerspace 3D print lab.

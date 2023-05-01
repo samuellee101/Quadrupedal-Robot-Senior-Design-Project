@@ -25,4 +25,4 @@ The robot itself is able to move its legs with the help of the servo. Video/Imag
 
 Thank you for taking the time to read this.
 
-Special thanks to Dr. Dongchul Kim for being our project overseer, and Dr. Noe Vargas for his patience at the Makerspace 3D print lab.
+Special thanks to Dr. Dongchul Kim for being our project overseer, and Dr. Noe Vargas for his patience at the Makerspace 3D print lab. Thank you Dr. Erik Enriquez for helping us with the simulation.

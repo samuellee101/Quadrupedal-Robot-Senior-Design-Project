@@ -1,7 +1,9 @@
 # Quadrupedal Robot with the aim of Obstacle Avoidance using Artificial Intelligence
 UTRGV - University of Texas Rio Grande Valley
 
-Hello, my name is Samuel Lee, and together with my fellow teammmates Ryunghoon Ahn, and Christopher Valdes, we aimed to have a quadrupedal robot walking by the end of our senior design project.
+Hello, my name is Samuel Lee, and together with my fellow teammmates Ryunghoon Ahn, and Christopher Valdes, we aimed to have a quadrupedal robot walking by the end of our senior design project. The eventual goal of this project was to have a walking quadrupedal robot that moves using Artificial Intelligence, and is able to avoid obstacles (walls, buckets, basketballs), however, for the purposes of our senior design project, we wanted a walking quadrupdal robot.
+
+This is meant to be a repository to show to future students working on this project, with helpful files to guide these students.
 
 The quadrupedal robot was built using a combination of 3D printed parts using UTRGV's engineering building print labs, servos/wires/Jetson Nano purchased online, and was constructed in the Artificial Intelligence lab at UTRGV.
 

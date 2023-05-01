@@ -13,7 +13,7 @@ The file 'gazebo/spot_mini_mini' has work that Christopher and Ryunghoon did in 
 
 The file 'gyroscope' details work that Samuel did in order to get the gyroscope up and running.
 
-The file 'midterm-presentation' shows what we presented during our midterm presentations, and the powerpoint within details our progress halfway through this project. joint Christopher/Samuel effort.
+The file 'midterm-presentation' shows what we presented during our midterm presentations, and the powerpoint within details our progress halfway through this project. Joint Christopher/Samuel effort.
 
 The file '3D-printed-instructions' details work that Samuel did in order to get the 3D printed parts necessary for the project.
 

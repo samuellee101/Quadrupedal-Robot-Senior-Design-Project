@@ -1,9 +1,11 @@
-# UTRGV - University of Texas Rio Grande Valley
-Repository for code, instructions, any files/folders related to the 2023 Spring quadrupedal robot final project.
+# Quadrupedal Robot with the aim of Obstacle Avoidance using Artificial Intelligence
+UTRGV - University of Texas Rio Grande Valley
 
 Hello, my name is Samuel Lee, and together with my fellow teammmates Ryunghoon Ahn, and Christopher Valdes, we aimed to have a quadrupedal robot walking by the end of our senior design project.
 
 The quadrupedal robot was built using a combination of 3D printed parts using UTRGV's engineering building print labs, servos/wires/Jetson Nano purchased online, and was constructed in the Artificial Intelligence lab at UTRGV.
+
+Ryunghoon Ahn was responsible for the physical construction of the robot. This includes soldering/screwing parts and ordering electrical parts online.
 
 The file 'gazebo/spot_mini_mini' has work that Christopher and Ryunghoon did in order to make the robot run in simulations.
 

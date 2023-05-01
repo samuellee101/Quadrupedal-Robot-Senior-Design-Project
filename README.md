@@ -15,7 +15,9 @@ The file 'midterm-presentation' shows what we presented during our midterm prese
 
 The file '3D-printed-instructions' details work that Samuel did in order to get the 3D printed parts necessary for the project.
 
-As of May 1, 2023, more files are to come, as we wrap up this project and present our final presentation on May 10, 2023. Our final presentation, and more documentation will be added, however our primary focus is the simulation, which Ryunghoon and Christopher are in charge of.
+As of May 1, 2023, more files are to come, as we wrap up this project and present our final presentation on May 10, 2023. Our final presentation will be added shortly.
+
+Christopher and Ryunghoon are responsible for the simulation aspect of this project.
 
 The robot itself is able to move its legs with the help of the servo. Video/Images will be included in the final presentation.
 

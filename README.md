@@ -23,6 +23,6 @@ Christopher and Ryunghoon are responsible for the simulation aspect of this proj
 
 The robot itself is able to move its legs with the help of the servo. Video/Images will be included in the final presentation.
 
-We would like to thank Christian Narcia from the Artificial Intelligence labs for the files found in 'revised-stl-files'.
+We would like to thank Christian Narcia from the Artificial Intelligence labs for the files found in 'revised-stl-parts.'
 
 Special thanks to Dr. Dongchul Kim for being our project overseer, and Dr. Noe Vargas for his patience at the Makerspace 3D print lab. Thank you Dr. Erik Enriquez for helping us with the simulation.

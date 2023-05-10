@@ -17,7 +17,7 @@ The file 'midterm-presentation' shows what we presented during our midterm prese
 
 The file '3D-printed-instructions' details work that Samuel did in order to get the 3D printed parts necessary for the project.
 
-As of May 1, 2023, more files are to come, as we wrap up this project and present our final presentation on May 10, 2023. Our final presentation will be added shortly.
+'End-of-Semester-Deliverables' has our final report and final presentation.
 
 Christopher and Ryunghoon are responsible for the simulation aspect of this project.
 
